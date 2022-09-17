@@ -1,41 +1,41 @@
 # kaggle-courses-
 
-# Intro to Machine Learning
+#  1. Intro to Machine Learning
 
 ![certificate ](https://github.com/vaibhavhindia/kaggle-courses-/blob/main/Intro%20to%20Machine%20Learning/image/Vaibhav%20Hindia%20-%20Intro%20to%20Machine%20Learning.png)
 
-# Python 
+#  2. Python 
 
 ![certificate ](https://github.com/vaibhavhindia/kaggle-courses-/blob/main/Python/image/Vaibhav%20Hindia%20-%20Python.png)
 
-# Pandas
+# 3. Pandas
 
-![certificate ]()
-
-
-# Time Series
-
-![certificate ](https://github.com/vaibhavhindia/kaggle-courses-/blob/main/Python/image/Vaibhav%20Hindia%20-%20Python.png)
+![certificate ](https://github.com/vaibhavhindia/kaggle-courses-/blob/main/Pandas/Images/Vaibhav%20Hindia%20-%20Pandas.png)
 
 
-# Data Cleaning 
+# 4. Time Series
 
-![certificate ](https://github.com/vaibhavhindia/kaggle-courses-/blob/main/Python/image/Vaibhav%20Hindia%20-%20Python.png)
-
-
-# Feature Engineering
-
-![certificate ](https://github.com/vaibhavhindia/kaggle-courses-/blob/main/Python/image/Vaibhav%20Hindia%20-%20Python.png)
+![certificate ](https://github.com/vaibhavhindia/kaggle-courses-/blob/main/Time%20Series/Image/Vaibhav%20Hindia%20-%20Time%20Series.png)
 
 
-# Intro to SQL
+# 5. Data Cleaning 
 
-![certificate ](https://github.com/vaibhavhindia/kaggle-courses-/blob/main/Python/image/Vaibhav%20Hindia%20-%20Python.png)
+![certificate ](https://github.com/vaibhavhindia/kaggle-courses-/blob/main/Data%20Cleaning/Image/Vaibhav%20Hindia%20-%20Data%20Cleaning.png)
 
 
-# Advanced SQL
+# 6. Feature Engineering
 
-![certificate ](https://github.com/vaibhavhindia/kaggle-courses-/blob/main/Python/image/Vaibhav%20Hindia%20-%20Python.png)
+![certificate ](https://github.com/vaibhavhindia/kaggle-courses-/blob/main/Feature%20Engineering/Image/Vaibhav%20Hindia%20-%20Feature%20Engineering.png)
+
+
+# 7. Intro to SQL
+
+![certificate ](https://github.com/vaibhavhindia/kaggle-courses-/blob/main/Intro%20to%20SQL/Image/Vaibhav%20Hindia%20-%20Intro%20to%20SQL.png)
+
+
+# 8. Advanced SQL
+
+![certificate ](https://github.com/vaibhavhindia/kaggle-courses-/blob/main/Advance%20SQL/Image/Vaibhav%20Hindia%20-%20Advanced%20SQL.png)
 
 
 
