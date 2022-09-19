@@ -39,7 +39,14 @@
 
 # 9. Intermediate to Machine Learning 
 
-![certificate ]()
+![certificate ](https://github.com/vaibhavhindia/kaggle-courses-/blob/main/Intermediate%20to%20Machine%20Learning/image/Vaibhav%20Hindia%20-%20Intermediate%20Machine%20Learning.png)
+
+# 10. Data Visualization
+ 
+![certificate ](https://github.com/vaibhavhindia/kaggle-courses-/blob/main/Data%20Visualization/image/Vaibhav%20Hindia%20-%20Data%20Visualization.png)
+
+
+# 11. 
 
 
 
