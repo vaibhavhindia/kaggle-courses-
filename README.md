@@ -37,5 +37,9 @@
 
 ![certificate ](https://github.com/vaibhavhindia/kaggle-courses-/blob/main/Advance%20SQL/Image/Vaibhav%20Hindia%20-%20Advanced%20SQL.png)
 
+# 9. Intermediate to Machine Learning 
+
+![certificate ]()
+
 
 
