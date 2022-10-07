@@ -181,3 +181,180 @@ If it's helpful for you, please **star** this repository and **follow me**.
 ### Exercise
 
   - [01 - Getting Sstarted with SQL and Bigquery]()
+  - - [02 - Select, From & Where]()
+  - [03 - Group By, Having & Count]()
+  - [04 - Order By]()
+  - [05 - As & With]()
+  - [06 - Joining Data]()
+
+
+## Tutorial 9 - Advanced SQL
+
+### Lecture Notes
+
+  - [01 - JOINs and UNIONs]()
+  - [02 - Analytic Functions]()
+  - [03 - Nested and Repeated Data]()
+  - [04 - Writing Efficient Quries]()
+
+### Exercise
+
+  - [01 - JOINs and UNIONs]()
+  - [02 - Analytic Functions]()
+  - [03 - Nested and Repeated Data]()
+  - [04 - Writing Efficient Quries]()
+
+
+## Tutorial 10 - Introduction to Deep Learning
+
+### Lecture Notes
+
+  - [01 - A Single Neuron]()
+  - [02 - Deep Neural Networks]()
+  - [03 - Stochastic Gradient Descent]()
+  - [04 - Overfitting and Underfitting]()
+  - [05 - Dropout and Batch Normalization]()
+  - [06 - Binary Classification]()
+
+### Exercise
+
+  - [01 - A Single Neuron]()
+  - [02 - Deep Neural Networks]()
+  - [03 - Stochastic Gradient Descent]()
+  - [04 - Overfitting and Underfitting]()
+  - [05 - Dropout and Batch Normalization]()
+  - [06 - Binary Classification]()
+
+
+## Tutorial 11 - Computer Vision
+
+### Lecture Notes
+
+  - [01 - The Convolutional Classifier]()
+  - [02 - Convolution and ReLU]()
+  - [03 - Maximum Pooling]()
+  - [04 - The Sliding Window]()
+  - [05 - Custom Convnets]()
+  - [06 - Data Augmentation]()
+
+### Exercise
+
+  - [01 - The Convolutional Classifier]()
+  - [02 - Convolution and ReLU]()
+  - [03 - Maximum Pooling]()
+  - [04 - The Sliding Window]()
+  - [05 - Custom Convnets]()
+  - [06 - Data Augmentation]()
+
+
+## Tutorial 12 - Data Cleaning
+
+### Lecture Notes
+
+  - [01 - Handling Missing Values]()
+  - [02 - Scaling and Normalization]()
+  - [03 - Parsing Dates]()
+  - [04 - Character Encodings]()
+  - [05 - Inconsistent data Entry]()
+
+### Exercise
+
+  - [01 - Handling Missing Values]()
+  - [02 - Scaling and Normalization]()
+  - [03 - Parsing Dates]()
+  - [04 - Character Encodings]()
+  - [05 - Inconsistent data Entry]()
+
+
+## Tutorial 13 - Time Series
+
+### Lecture Notes
+
+  - [01 - Linear Regression With Time Series]()
+  - [02 - Trend]()
+  - [03 - Seasonality]()
+  - [04 - Time Series as Features]()
+  - [05 - Hybrid Models]()
+  - [06 - Forecasting With Machine Learning]()
+
+### Exercise
+
+  - [01 - Linear Regression With Time Series]()
+  - [02 - Trend]()
+  - [03 - Seasonality]()
+  - [04 - Time Series as Features]()
+  - [05 - Hybrid Models]()
+  - [06 - Forecasting With Machine Learning]()
+
+
+## Tutorial 14 - Intro to AI Ethics
+
+### Lecture Notes
+
+  - [01 - Introduction to AI Ethics]()
+  - [02 - Human-Centered Design for AI]()
+  - [03 - Identifying Bias in AI]()
+  - [04 - AI Fairness]()
+  - [05 - Model Cards]()
+
+### Exercise
+
+  - [02 - Human-Centered Design for AI]()
+  - [03 - Identifying Bias in AI]()
+  - [04 - AI Fairness]()
+  - [05 - Model Cards]()
+
+
+## Tutorial 15 - Geospatial Analysis
+
+### Lecture Notes
+
+  - [01 - Your First Map]()
+  - [02 - Coordinate Reference Systems]()
+  - [03 - Interactive Maps]()
+  - [04 - Manipulating Geospatial Data]()
+  - [05 - Proximity Analysis]()
+
+### Exercise
+
+  - [01 - Your First Map]()
+  - [02 - Coordinate Reference Systems]()
+  - [03 - Interactive Maps]()
+  - [04 - Manipulating Geospatial Data]()
+  - [05 - Proximity Analysis]()
+
+
+## Tutorial 16 - Machine Learning Explainability
+
+### Lecture Notes
+
+  - [01 - Use Cases for Model Insights]()
+  - [02 - Pemutation Importance]()
+  - [03 - Partial Plots]()
+  - [04 - SHAP Values]()
+  - [05 - Advanced Uses of SHAP Values]()
+
+### Exercise
+
+  - [02 - Pemutation Importance]()
+  - [03 - Partial Plots]()
+  - [04 - SHAP Values]()
+  - [05 - Advanced Uses of SHAP Values]()
+
+
+## Tutorial 17 - Intro to Game AI and Reinforcement Learning
+
+### Lecture Notes
+
+  - [01 - Play the Game]()
+  - [02 - One-Step Lookahead]()
+  - [03 - N-Step Lookahead]()
+  - [04 - Deep Reinforcement Learning]()
+
+### Exercise
+
+  - [01 - Play the Game]()
+  - [02 - One-Step Lookahead]()
+  - [03 - N-Step Lookahead]()
+  - [04 - Deep Reinforcement Learning]()
+
